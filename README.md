@@ -4,8 +4,8 @@
 1. Установите [Docker](https://www.docker.com/).
 2. Скачайте код и перейдите в каталог проекта:
 ```sh
-git clone https://github.com/MeshkovD/payment_system_api_test_task.git
-cd payment_system_api_test_task
+git clone https://github.com/MeshkovD/spider_test_task.git
+cd spider_test_task
 ```
 3. Проект настроен на работу с переменными окружения. Для их использования, в корневом каталоге проекта создайте файл .env
 
