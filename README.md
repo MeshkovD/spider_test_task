@@ -30,9 +30,6 @@ DATABASE=postgres
 docker-compose up -d --build
 ```
 
-*Где **stripe_pay\\.env** - это путь к ранее созданному файлу .env (при запуске в Windows, заменить на **stripe_pay/.env**)*
-
-
 6. Сайт доступен в браузере по адресу http://localhost:8000/
 
 
